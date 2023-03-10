@@ -1,0 +1,32 @@
+classes:
+  ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
+
+upload_label:
+  'Upload your image'
+
+upload_help:
+  'Upload the image you want to be classified into the following categories: cardboard, glass, metal, paper, plastic, trash.'
+
+image_types:
+  ['png', 'jpg']
+
+image_dim_resize:
+  (224, 224)
+
+scale_param:
+  255
+
+predict_label:
+  'Predict'
+
+predict_help:
+  'Calculates the probability that the image belongs to each available class.'
+
+model_id:
+  '1672278906'
+
+interactive_plot:
+  True
+
+storage:
+  's3'

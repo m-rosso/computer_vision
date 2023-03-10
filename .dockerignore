@@ -1,0 +1,12 @@
+.mypy_cache/
+artifacts/*
+!artifacts/model_1672278906.h5
+data/
+deploy/
+docs/
+experiments/
+notebooks/
+archs.xlsx
+Kanban.gsheet
+nn_notes.pdf
+Project.txt
