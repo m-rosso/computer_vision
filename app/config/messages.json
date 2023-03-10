@@ -1,0 +1,5 @@
+{
+    "app_monitoring": "Here, it can be shown a series of statistics and visualizations regarding the application health, such as the occurrence of exceptions and errors and metrics on latency or throughput.",
+    "infra_monitoring": "This page could display a monitor for the infrastructure provisioning: metrics about computational and storage resources (consumption and costs), DevOps metrics, application consumption metrics (number of requests or interactions, and so on).",
+    "model_monitoring": "This page could present a dashboard for model monitoring, involving the evolution of operational (business) metrics, performance (statistical) metrics, opposition of current metrics against expected values (test set metrics)."
+}
