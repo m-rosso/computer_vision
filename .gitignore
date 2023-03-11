@@ -1,6 +1,6 @@
 .mypy_cache/
 artifacts/*
-!artifacts/.gitkeep
+!artifacts/arch_1672278906.jpg
 data/*
 !data/.gitkeep
 experiments/*
